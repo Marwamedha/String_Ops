@@ -1,6 +1,9 @@
 # String_Ops
 DEBI Assigmnent-modules - Some function
+
 -name: Marwa Medhat Ali said
+
+-project description:this project contains a module called string_ops.py and a main code 
 ### functions
 #### you can use f(s): 
 for a given nonempty string s find a minimum substring t and the maximum number k, such that the entire string s is equal to t repeated k times. 
